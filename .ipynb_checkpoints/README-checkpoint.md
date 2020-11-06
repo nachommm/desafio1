@@ -33,11 +33,11 @@ git pull
 
 # Tareas a Desarrollar.
 
--Armar un GitHub con el proyecto y compartirlo. (Listo)
--Armar el Notebook donde se desarrollaran los resultados. (Listo)
--Limpieza de los datos.
--Completar los datos perdidos. (Diseñar estrategia)
--Realizar un análisis descritivo de las principales variables.
--Crear nuevas columnas a partir de las carracteristicas dadas que puedan tener valores predictivos. ¿?
+- Armar un GitHub con el proyecto y compartirlo. (Listo)
+- Armar el Notebook donde se desarrollaran los resultados. (Listo)
+- Limpieza de los datos.
+- Completar los datos perdidos. (Diseñar estrategia)
+- Realizar un análisis descritivo de las principales variables.
+- Crear nuevas columnas a partir de las carracteristicas dadas que puedan tener valores predictivos. ¿?
 
 
