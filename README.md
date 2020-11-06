@@ -5,9 +5,9 @@
 
 > Clonar repositorio.
 
-´´´
+```
 mkdir desafio1
-´´´
+```
 
 # Tareas a Desarrollar.
 
