@@ -6,7 +6,7 @@
 > Clonar repositorio.
 
 ```
-git clone https://github.com/nachommm/desafio1.git
+git clone https://github.com/nachommm/Notebooks.git
 ```
 
 > Configurar GIT para subir cambios.
