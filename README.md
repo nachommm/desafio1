@@ -30,7 +30,14 @@ git push origin
 git pull
 ```
 
+> Como darle un formato lindo a este docuemnto "README.md" y comando basicos de GIT
 
+```
+https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
+
+https://rogerdudler.github.io/git-guide/index.es.html
+
+```
 # Tareas a Desarrollar.
 
 - Armar un GitHub con el proyecto y compartirlo. (Listo)
