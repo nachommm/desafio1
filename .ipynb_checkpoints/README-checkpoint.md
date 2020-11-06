@@ -6,8 +6,30 @@
 > Clonar repositorio.
 
 ```
-mkdir desafio1
+git clone https://github.com/nachommm/desafio1.git
 ```
+
+> Configurar GIT para subir cambios.
+
+```
+git config --global user.email "mendieta.i@gmail.com"
+git config --global user.name "Ignacio"
+```
+
+> Subir Cambios a GIT.
+
+```
+git add .
+git commit -m "!!!Comentario sobre el cambio realizado"
+git push origin
+```
+
+> Bajar Cambios de GIT. 
+
+```
+git pull
+```
+
 
 # Tareas a Desarrollar.
 
