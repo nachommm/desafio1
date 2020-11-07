@@ -3,7 +3,7 @@
 
 ## Comandos Basicos GIT
 
-> Como actualizar con la información de GIT.
+> Como actualizar con la información de GIT. (Copiar de Github a mi maquina local)
 
 ```
 git fetch
