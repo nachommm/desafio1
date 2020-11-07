@@ -3,6 +3,14 @@
 
 ## Comandos Basicos GIT
 
+> Como actualizar con la información de GIT.
+
+```
+git fetch
+git reset --hard HEAD
+git merge
+```
+
 > Clonar repositorio.
 
 ```
