@@ -1,6 +1,30 @@
 # DESAFIO 1
 Área de colaboración para el desarrollo del Desafió 1
 
+# Tareas a Desarrollar.
+
+- Armar un GitHub con el proyecto y compartirlo. (Listo)
+- Armar el Notebook donde se desarrollaran los resultados. (Listo)
+- Limpieza de los datos.
+- Completar los datos perdidos. (Diseñar estrategia)
+- Realizar un análisis descritivo de las principales variables.
+- Crear nuevas columnas a partir de las carracteristicas dadas que puedan tener valores predictivos. ¿?
+
+## Instalar geopandas "Para imprimir Mapas"
+
+ - https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972
+ 
+> Se instala en la raiz del directorio de los proyectos, y no olvidar de elegir el entorno; 
+```
+conda activate dhdsblend
+```
+```
+conda install -c conda-forge geopandas
+conda install -c conda-forge descartes
+```
+## La información geografica la baje de:
+- https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG
+
 ## Comandos Basicos GIT
 
 > Como actualizar con la información de GIT. (Copiar de Github a mi maquina local)
@@ -24,6 +48,7 @@ Tendria que quedar algo así..
 
 Desafio1
 Desafio1\Data\
+Desafio1\Mapa\
 Desafio1\Notebooks\
 ```
 
@@ -56,13 +81,6 @@ https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-w
 https://rogerdudler.github.io/git-guide/index.es.html
 
 ```
-# Tareas a Desarrollar.
 
-- Armar un GitHub con el proyecto y compartirlo. (Listo)
-- Armar el Notebook donde se desarrollaran los resultados. (Listo)
-- Limpieza de los datos.
-- Completar los datos perdidos. (Diseñar estrategia)
-- Realizar un análisis descritivo de las principales variables.
-- Crear nuevas columnas a partir de las carracteristicas dadas que puedan tener valores predictivos. ¿?
 
 
