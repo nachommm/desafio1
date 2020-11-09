@@ -1,8 +1,9 @@
 # DESAFIO 1
 Área de colaboración para el desarrollo del Desafió 1
 
-Gis: analiza la información Geografica.
-Precios: analiza las variables numericas relacionadas al precio.
+- Desafio1: Desarrollo de la solución.
+- Gis: analiza la información Geografica.
+- Precios: analiza las variables numericas relacionadas al precio.
 
 # Tareas a Desarrollar.
 
