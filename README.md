@@ -1,6 +1,9 @@
 # DESAFIO 1
 Área de colaboración para el desarrollo del Desafió 1
 
+Gis: analiza la información Geografica.
+Precios: analiza las variables numericas relacionadas al precio.
+
 # Tareas a Desarrollar.
 
 - Armar un GitHub con el proyecto y compartirlo. (Listo)
