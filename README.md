@@ -18,6 +18,10 @@
 
  - https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972
  
+> Ejemplo desarrollado con bokeh
+
+ - https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-ii-intro-to-bokeh-5dca6c5ced10
+ 
 > Se instala en la raiz del directorio de los proyectos, y no olvidar de elegir el entorno; 
 ```
 conda activate dhdsblend
