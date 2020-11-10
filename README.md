@@ -33,6 +33,12 @@ conda install -c conda-forge descartes
 ## La información geografica la baje de:
 - https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG
 
+> Ayuda para las posiciones Geolocalizadas "Lo encontre pero incompleto"
+
+https://datosgobar.github.io/paquete-apertura-datos/guia-interoperables/#divisiones-o-unidades-territoriales-internas
+
+Solo funciona para el caso de las Localidades - Localidades (CSV | JSON)
+
 ## Comandos Basicos GIT
 
 > Como actualizar con la información de GIT. (Copiar de Github a mi maquina local)
