@@ -30,7 +30,7 @@ conda activate dhdsblend
 conda install -c conda-forge geopandas
 conda install -c conda-forge descartes
 ```
-## La información geografica la baje de:
+## La información geografica surge de:
 - https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG
 
 > Ayuda para las posiciones Geolocalizadas "Lo encontre pero incompleto"
